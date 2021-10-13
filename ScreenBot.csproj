@@ -13,4 +13,8 @@
     <PackageReference Include="Selenium.WebDriver.MSEdgeDriver" Version="94.0.992.38" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Examples\" />
+  </ItemGroup>
+
 </Project>
